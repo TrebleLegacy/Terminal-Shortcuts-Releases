@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Terminal Shortcuts</title>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <item>
+      <title>Terminal Shortcuts v1.1.0</title>
+      <description>
+        <![CDATA[
+        <h2>Version 1.1.0</h2>
+        <p>Latest release of Terminal Shortcuts - A modern macOS application for managing and executing terminal commands with ease.</p>
+        <h3>Features:</h3>
+        <ul>
+          <li>Command Management</li>
+          <li>Global Hotkeys</li>
+          <li>Command Scheduling (Once, Daily, Weekly, Monthly)</li>
+          <li>Favorites System</li>
+          <li>Import/Export Commands</li>
+          <li>License Management</li>
+        </ul>
+        ]]>
+      </description>
+      <pubDate>Thu, 23 Oct 2025 10:40:29 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/download/v1.1.0/Terminal-Shortcuts-1.1.0.dmg"
+                 sparkle:version="2"
+                 sparkle:shortVersionString="1.1.0"
+                 length="7146066"
+                 sparkle:edSignature=""
+                 type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
