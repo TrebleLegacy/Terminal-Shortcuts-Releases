@@ -1,36 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Terminal Shortcuts</title>
+    <title>Terminal Shortcuts Changelog</title>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Terminal Shortcuts v1.1.0</title>
-      <description>
-        <![CDATA[
-        <h2>Version 1.1.0</h2>
-        <p>Latest release of Terminal Shortcuts - A modern macOS application for managing and executing terminal commands with ease.</p>
-        <h3>Features:</h3>
+      <title>Version 1.1.0</title>
+      <description><![CDATA[
+        <h2>What's New in Terminal Shortcuts 1.1.0</h2>
         <ul>
-          <li>Command Management</li>
-          <li>Global Hotkeys</li>
-          <li>Command Scheduling (Once, Daily, Weekly, Monthly)</li>
-          <li>Favorites System</li>
-          <li>Import/Export Commands</li>
-          <li>License Management</li>
+          <li>License de-activating in specific cases fix</li>
+          <li>Updates now use Sparkle framework</li>
+          <li>Various UI bug fixes</li>
         </ul>
-        ]]>
-      </description>
-      <pubDate>Thu, 23 Oct 2025 10:40:29 +0000</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        <p>For more details, visit our <a href="https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases">GitHub releases page</a>.</p>
+      ]]></description>
+      <pubDate>Sun, 27 Oct 2024 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/download/v1.1.0/Terminal-Shortcuts-1.1.0.dmg"
-                 sparkle:version="2"
+                 sparkle:version="1.1.0"
                  sparkle:shortVersionString="1.1.0"
-                 length="9608775"
-                 sparkle:edSignature="ddACAKsFJLYyWyZ2ok13Jw0/45UP4Dd81SGtvFHcQO7Dccpq6pMrSS9t/9OfYrI56FUqsAVKCgj/uRuMDnqpCA=="
-                 type="application/octet-stream"/>
+                 length="7242559"
+                 type="application/octet-stream"
+                 sparkle:dsaSignature="MKaH97IuOi3i3752opC6AAQ8QbVmFIA0WVvmAgVgrmv6DaUElOCmT888QyQFek/zoQWZt9L/R+bz9Bq0kg0uDQ=="/>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/tag/v1.1.0</sparkle:releaseNotesLink>
+    </item>
+    <item>
+      <title>Version 1.0.0</title>
+      <description><![CDATA[
+        <h2>What's New in Terminal Shortcuts 1.0.0</h2>
+        <ul>
+          <li>First public release</li>
+          <li>Command management and execution</li>
+          <li>Global hotkeys support</li>
+          <li>Scheduling capabilities</li>
+          <li>Favorites system</li>
+          <li>Import/Export functionality</li>
+          <li>License management</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 25 Oct 2024 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/download/v1.0.0/Terminal-Shortcuts-1.0.0.dmg"
+                 sparkle:version="1.0.0"
+                 sparkle:shortVersionString="1.0.0"
+                 length="YOUR_FILE_SIZE_IN_BYTES"
+                 type="application/octet-stream"
+                 sparkle:dsaSignature="YOUR_SIGNATURE_HERE"/>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/tag/v1.0.0</sparkle:releaseNotesLink>
     </item>
   </channel>
 </rss>
