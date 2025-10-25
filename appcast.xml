@@ -21,7 +21,7 @@
                  sparkle:shortVersionString="1.1.0"
                  length="7242559"
                  type="application/octet-stream"
-                 sparkle:dsaSignature="MKaH97IuOi3i3752opC6AAQ8QbVmFIA0WVvmAgVgrmv6DaUElOCmT888QyQFek/zoQWZt9L/R+bz9Bq0kg0uDQ=="/>
+                 sparkle:edSignature="MKaH97IuOi3i3752opC6AAQ8QbVmFIA0WVvmAgVgrmv6DaUElOCmT888QyQFek/zoQWZt9L/R+bz9Bq0kg0uDQ=="/>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/tag/v1.1.0</sparkle:releaseNotesLink>
     </item>
