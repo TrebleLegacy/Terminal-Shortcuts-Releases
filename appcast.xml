@@ -18,7 +18,7 @@
       ]]></description>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/download/v1.1.0/Terminal-Shortcuts-1.1.0.dmg"
-                 sparkle:version="2"
+                 sparkle:version="1.1.0"
                  sparkle:shortVersionString="1.1.0"
                  length="7242559"
                  type="application/octet-stream"
