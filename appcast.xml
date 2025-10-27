@@ -5,24 +5,26 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.1</title>
+      <title>Version 1.1.2</title>
       <description><![CDATA[
-        <h2>What's New in Terminal Shortcuts 1.1.1</h2>
+        <h2>What's New in Terminal Shortcuts 1.1.2</h2>
         <ul>
           <li>Tahoe Crash Fix</li>
-          <li>Various UI bug fixes and improvements</li>
+          <li>Fixed settings window blocking app termination during updates</li>
+          <li>Performance optimizations and stability improvements</li>
+          <li>Various UI bug fixes and enhancements</li>
         </ul>
         <p>For more details, visit our <a href="https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases">GitHub releases page</a>.</p>
       ]]></description>
-      <pubDate>Mon, 27 Oct 2025 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/download/v1.1.1/Terminal-Shortcuts-1.1.1.dmg"
-                 sparkle:version="3"
-                 sparkle:shortVersionString="1.1.1"
-                 length="7243148"
+      <pubDate>Tue, 28 Oct 2025 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/download/v1.1.2/Terminal-Shortcuts-1.1.2.dmg"
+                 sparkle:version="4"
+                 sparkle:shortVersionString="1.1.2"
+                 length="7265539"
                  type="application/octet-stream"
-                 sparkle:edSignature="ToWD4gWBU4Our3UCXJctRjhaYgyPx+XztpraIVZsuLIWi+uLDYLyLwiXM4X/a/K9aBM5EqjjR6QSKRypLEUnAA=="/>
+                 sparkle:edSignature="A67oxwRbmOwfoWLdcRocyZNMxTzw6HajgCoycnVuT85h+4RPeLmZf/2YZiPsDeCXdy41z1IeGZMX/ERK77IFDA=="/>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/tag/v1.1.1</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/tag/v1.1.2</sparkle:releaseNotesLink>
     </item>
   </channel>
 </rss>
