@@ -5,9 +5,9 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.2.0</title>
+      <title>Version 1.2.1</title>
       <description><![CDATA[
-        <h2>What's New in Terminal Shortcuts 1.2.0</h2>
+        <h2>What's New in Terminal Shortcuts 1.2.1</h2>
         <ul>
           <li><strong>App Visibility Settings:</strong> New option to show app in Dock/Menu Bar or Menu Bar only.</li>
           <li><strong>Command Descriptions:</strong> Added a new description field for your commands.</li>
@@ -16,18 +16,18 @@
           <li><strong>Better Window Management:</strong> Improved reliability when opening windows and clicking the Dock icon.</li>
           <li><strong>Contact Developer:</strong> Added contact links in Settings > About.</li>
           <li><strong>Performance:</strong> Removed verbose logging and optimized startup.</li>
+          <li><strong>Bug fixes and stability improvements.</strong></li>
         </ul>
         <p>For more details, visit our <a href="https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases">GitHub releases page</a>.</p>
       ]]></description>
-      <pubDate>Mon, 30 Dec 2025 10:50:00 +0000</pubDate>
-      <enclosure url="https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/download/v1.2.0/Terminal-Shortcuts-1.2.0.dmg"
-                 sparkle:version="6"
-                 sparkle:shortVersionString="1.2.0"
-                 length="6602659"
+      <pubDate>Tue, 31 Dec 2025 07:15:00 +0000</pubDate>
+      <enclosure url="https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/download/v1.2.1/Terminal-Shortcuts-1.2.1.dmg"
+                 sparkle:version="7"
+                 sparkle:shortVersionString="1.2.1"
+                 length="8150320"
                  type="application/octet-stream"
-                 sparkle:edSignature="2BfM4OGu+W8mvHPBtq+dy83gXJ5OpszI6mHW7CCT6DgEmRpDwLeyRPMufyr25EE0/twc/7lXInQdwlE/V1PUCQ=="/>
+                 sparkle:edSignature="nBVdwHXpRz7tgci9Ne2xzVxH5CSU/9XsW0IUdRUvD4FL7vV6E5xrBLryAKbzTEchPJrkTPasobni5rIEB9vhAw=="/>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/tag/v1.2.0</sparkle:releaseNotesLink>
     </item>
   </channel>
 </rss>
