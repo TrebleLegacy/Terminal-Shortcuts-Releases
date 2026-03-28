@@ -5,6 +5,30 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
+      <title>Version 1.3.0</title>
+      <description><![CDATA[
+        <h2>What's New in Terminal Shortcuts 1.3.0</h2>
+        <ul>
+          <li><strong>Redesigned Welcome Flow:</strong> New 4-step setup wizard with clear product intro, permissions, inline license activation, and quick tips.</li>
+          <li><strong>License Activation in Setup:</strong> Enter your Gumroad license key directly in the welcome wizard — no need to hunt through Settings.</li>
+          <li><strong>Honest Gatekeeper Guidance:</strong> Clear explanation of why macOS asks for approval and how to handle it after updates.</li>
+          <li><strong>Improved Update Experience:</strong> Fixed update button not appearing, settings sheet blocking updates, and Sparkle modal conflicts.</li>
+          <li><strong>Better DMG Instructions:</strong> Renamed instruction images for clarity — impossible to miss on first install.</li>
+          <li><strong>Free vs Licensed Comparison:</strong> Side-by-side tier cards in the setup wizard show exactly what you unlock.</li>
+          <li><strong>Overall Security Hardening:</strong> Tighter internal validation.</li>
+        </ul>
+        <p>For more details, visit our <a href="https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases">GitHub releases page</a>.</p>
+      ]]></description>
+      <pubDate>Sat, 28 Mar 2026 05:49:34 +0000</pubDate>
+      <enclosure url="https://github.com/TrebleLegacy/Terminal-Shortcuts-Releases/releases/download/v1.3.0/Terminal-Shortcuts-1.3.0.dmg"
+                 sparkle:version="8"
+                 sparkle:shortVersionString="1.3.0"
+                 length="9126354"
+                 type="application/octet-stream"
+                 sparkle:edSignature="JiYCs0uzIoWNHouTNvpEuYGKrtK+GR2Xjg1pcQR8Y3xO8126IkrLtolrlZa2leQUeJCD82qQbYsTgh9qbL+8Cg=="/>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+    </item>
+    <item>
       <title>Version 1.2.1</title>
       <description><![CDATA[
         <h2>What's New in Terminal Shortcuts 1.2.1</h2>
